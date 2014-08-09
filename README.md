@@ -1,8 +1,8 @@
-ForPuzzles
+ForPuz
 ==========
 
-A part of Puzzles
+A part of Puz
 
-This is test
+This is test comment for Puz
 
 
